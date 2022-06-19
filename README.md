@@ -1,20 +1,5 @@
 ## Getting Started
 
-
-<div id="top"></div>
-
-[![MIT License][license-shield]][license-url]
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
-  <h3 align="center">Food Order</h3>
-
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +16,6 @@
     </li>
   </ol>
 </details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -60,7 +44,6 @@ Decisions ->
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -71,7 +54,7 @@ Decisions ->
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
 * [GCC](https://gcc.gnu.org/)
 #### Via Colab
-* [Any Browser](#)
+* Any Browser
 
 ### Setup
 
@@ -85,21 +68,6 @@ Decisions ->
 - Run  !pip install git+https://github.com/andreinechaev/nvcc4jupyter.
 - Run %load_ext nvcc_plugin
 - add %%cu at the beginning of code and you can paste cpp code
-```
-
-#### With Nvcc
-```
-# Check gcc version
-$ gcc --version
-$ g++ --version
-gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
-
-# Check gcc version
-$ nvcc --version
-Built on Mon_Oct_12_20:09:46_PDT_2020
-Cuda compilation tools, release 11.1, V11.1.105
-Build cuda_11.1.TC455_06.29190527_0
-
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
