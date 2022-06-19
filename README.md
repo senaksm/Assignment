@@ -69,5 +69,4 @@ Decisions ->
 - Run %load_ext nvcc_plugin
 - add %%cu at the beginning of code and you can paste cpp code
 ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
