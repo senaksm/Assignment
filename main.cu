@@ -1,4 +1,3 @@
-%%cu
 #include <cstdio>
 #include <iostream>
 #include <chrono>
