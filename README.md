@@ -25,7 +25,7 @@ This a playground project for paralel programing with cuda.
 
 Request -> 
 ```
-    Calculate a race with 100 participants in paralel -> 
+    Calculate a race with 100 participants in parallel -> 
     Speeds of participants are given randomly between 1 and 5 ->
     run calculations once in a second ->
     print all participant positions when there is a winner ->
@@ -65,7 +65,7 @@ Decisions ->
 - Open https://colab.research.google.com
 - Runtime -> Change Runtime Type -> Change to 'GPU' -> Save
 - Run  !nvcc --version
-- Run  !pip install git+https://github.com/andreinechaev/nvcc4jupyter.
+- Run  !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 - Run %load_ext nvcc_plugin
 - add %%cu at the beginning of code and you can paste cpp code
 ```
